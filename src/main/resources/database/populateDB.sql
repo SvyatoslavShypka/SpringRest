@@ -1,0 +1,1 @@
+INSERT INTO customers VALUES (1, 'Petro', 'Petrenko', 'Ukraine, Lviv, Bandery, 2', 10000,00);
